@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\bin\Debug\net6.0\OOP5_HangThucPham.exe
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\bin\Debug\net6.0\OOP5_HangThucPham.deps.json
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\bin\Debug\net6.0\OOP5_HangThucPham.runtimeconfig.json
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\bin\Debug\net6.0\OOP5_HangThucPham.dll
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\bin\Debug\net6.0\OOP5_HangThucPham.pdb
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\obj\Debug\net6.0\OOP5_HangThucPham.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\obj\Debug\net6.0\OOP5_HangThucPham.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\obj\Debug\net6.0\OOP5_HangThucPham.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\obj\Debug\net6.0\OOP5_HangThucPham.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\obj\Debug\net6.0\OOP5_HangThucPham.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\obj\Debug\net6.0\OOP5_HangThucPham.dll
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\obj\Debug\net6.0\refint\OOP5_HangThucPham.dll
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\obj\Debug\net6.0\OOP5_HangThucPham.pdb
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\obj\Debug\net6.0\OOP5_HangThucPham.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOP5_HangThucPham\OOP5_HangThucPham\obj\Debug\net6.0\ref\OOP5_HangThucPham.dll

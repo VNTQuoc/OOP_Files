@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\obj\Debug\net6.0\OOP3_Hinhtamgiac.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\obj\Debug\net6.0\OOP3_Hinhtamgiac.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\obj\Debug\net6.0\OOP3_Hinhtamgiac.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\obj\Debug\net6.0\OOP3_Hinhtamgiac.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\obj\Debug\net6.0\OOP3_Hinhtamgiac.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\bin\Debug\net6.0\OOP3_Hinhtamgiac.exe
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\bin\Debug\net6.0\OOP3_Hinhtamgiac.deps.json
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\bin\Debug\net6.0\OOP3_Hinhtamgiac.runtimeconfig.json
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\bin\Debug\net6.0\OOP3_Hinhtamgiac.dll
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\bin\Debug\net6.0\OOP3_Hinhtamgiac.pdb
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\obj\Debug\net6.0\OOP3_Hinhtamgiac.dll
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\obj\Debug\net6.0\refint\OOP3_Hinhtamgiac.dll
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\obj\Debug\net6.0\OOP3_Hinhtamgiac.pdb
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\obj\Debug\net6.0\OOP3_Hinhtamgiac.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOP3_Hinhtamgiac\OOP3_Hinhtamgiac\obj\Debug\net6.0\ref\OOP3_Hinhtamgiac.dll

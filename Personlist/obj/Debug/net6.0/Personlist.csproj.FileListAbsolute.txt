@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Personlist\Personlist\bin\Debug\net6.0\Personlist.exe
+C:\Users\Admin\source\repos\Personlist\Personlist\bin\Debug\net6.0\Personlist.deps.json
+C:\Users\Admin\source\repos\Personlist\Personlist\bin\Debug\net6.0\Personlist.runtimeconfig.json
+C:\Users\Admin\source\repos\Personlist\Personlist\bin\Debug\net6.0\Personlist.dll
+C:\Users\Admin\source\repos\Personlist\Personlist\bin\Debug\net6.0\Personlist.pdb
+C:\Users\Admin\source\repos\Personlist\Personlist\obj\Debug\net6.0\Personlist.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Personlist\Personlist\obj\Debug\net6.0\Personlist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Personlist\Personlist\obj\Debug\net6.0\Personlist.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Personlist\Personlist\obj\Debug\net6.0\Personlist.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Personlist\Personlist\obj\Debug\net6.0\Personlist.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Personlist\Personlist\obj\Debug\net6.0\Personlist.dll
+C:\Users\Admin\source\repos\Personlist\Personlist\obj\Debug\net6.0\refint\Personlist.dll
+C:\Users\Admin\source\repos\Personlist\Personlist\obj\Debug\net6.0\Personlist.pdb
+C:\Users\Admin\source\repos\Personlist\Personlist\obj\Debug\net6.0\Personlist.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Personlist\Personlist\obj\Debug\net6.0\ref\Personlist.dll

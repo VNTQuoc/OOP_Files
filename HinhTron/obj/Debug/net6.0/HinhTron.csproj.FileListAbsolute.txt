@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\HinhTron\HinhTron\bin\Debug\net6.0\HinhTron.exe
+C:\Users\Admin\source\repos\HinhTron\HinhTron\bin\Debug\net6.0\HinhTron.deps.json
+C:\Users\Admin\source\repos\HinhTron\HinhTron\bin\Debug\net6.0\HinhTron.runtimeconfig.json
+C:\Users\Admin\source\repos\HinhTron\HinhTron\bin\Debug\net6.0\HinhTron.dll
+C:\Users\Admin\source\repos\HinhTron\HinhTron\bin\Debug\net6.0\HinhTron.pdb
+C:\Users\Admin\source\repos\HinhTron\HinhTron\obj\Debug\net6.0\HinhTron.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\HinhTron\HinhTron\obj\Debug\net6.0\HinhTron.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\HinhTron\HinhTron\obj\Debug\net6.0\HinhTron.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\HinhTron\HinhTron\obj\Debug\net6.0\HinhTron.AssemblyInfo.cs
+C:\Users\Admin\source\repos\HinhTron\HinhTron\obj\Debug\net6.0\HinhTron.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\HinhTron\HinhTron\obj\Debug\net6.0\HinhTron.dll
+C:\Users\Admin\source\repos\HinhTron\HinhTron\obj\Debug\net6.0\refint\HinhTron.dll
+C:\Users\Admin\source\repos\HinhTron\HinhTron\obj\Debug\net6.0\HinhTron.pdb
+C:\Users\Admin\source\repos\HinhTron\HinhTron\obj\Debug\net6.0\HinhTron.genruntimeconfig.cache
+C:\Users\Admin\source\repos\HinhTron\HinhTron\obj\Debug\net6.0\ref\HinhTron.dll
