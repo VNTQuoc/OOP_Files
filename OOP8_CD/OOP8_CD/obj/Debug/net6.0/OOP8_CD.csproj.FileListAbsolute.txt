@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\obj\Debug\net6.0\OOP8_CD.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\obj\Debug\net6.0\OOP8_CD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\obj\Debug\net6.0\OOP8_CD.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\obj\Debug\net6.0\OOP8_CD.AssemblyInfo.cs
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\obj\Debug\net6.0\OOP8_CD.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\bin\Debug\net6.0\OOP8_CD.exe
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\bin\Debug\net6.0\OOP8_CD.deps.json
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\bin\Debug\net6.0\OOP8_CD.runtimeconfig.json
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\bin\Debug\net6.0\OOP8_CD.dll
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\bin\Debug\net6.0\OOP8_CD.pdb
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\obj\Debug\net6.0\OOP8_CD.dll
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\obj\Debug\net6.0\refint\OOP8_CD.dll
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\obj\Debug\net6.0\OOP8_CD.pdb
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\obj\Debug\net6.0\OOP8_CD.genruntimeconfig.cache
+C:\Users\Admin\source\repos\OOP8_CD\OOP8_CD\obj\Debug\net6.0\ref\OOP8_CD.dll
